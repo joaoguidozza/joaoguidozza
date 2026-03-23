@@ -1,13 +1,18 @@
-# João Guilherme
+# 👋 Sobre mim
 
-Estudante de ADS na Universidade Augusto Motta — 1º semestre.
-Aprendendo HTML, CSS, JavaScript e Python. Aqui vou subindo os projetos e exercícios da faculdade conforme avanço.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-guilherme-7bab78355/)
+Estudante de Análise e Desenvolvimento de Sistemas na Universidade Augusto Motta — 1º semestre.
+Ainda no começo, aprendendo na prática e subindo os projetos da faculdade aqui no GitHub.
 
 ---
 
-## O que estou aprendendo
+## 🌐 Redes sociais
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-guilherme-7bab78355/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaoguidozza)
+
+---
+
+## 💻 O que estou aprendendo
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -16,24 +21,11 @@ Aprendendo HTML, CSS, JavaScript e Python. Aqui vou subindo os projetos e exerc�
 
 ---
 
-## Progresso
-
-| Marco | Status |
-|---|---|
-| Ingressei na faculdade de ADS | ✅ |
-| HTML & CSS | ✅ Em andamento |
-| JavaScript | 🔄 Aprendendo |
-| Python | 🔄 Aprendendo |
-| Primeiro projeto do zero | ⏳ Em breve |
-| Primeiro estágio | ⏳ Meta futura |
-
----
-
-## Estatísticas
+## 📊 GitHub Stats
 
 <div align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaoguidozza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguidozza&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaoguidozza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguidozza&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
