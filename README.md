@@ -1,7 +1,7 @@
 # 👋 Sobre mim
 
 Estudante de Análise e Desenvolvimento de Sistemas na Universidade Augusto Motta — 2º semestre.
-Ainda no começo, aprendendo na prática e subindo os projetos da faculdade aqui no GitHub.
+Ainda no começo, aprendendo na prática e subindo os projetos aqui no GitHub.
 
 ---
 
